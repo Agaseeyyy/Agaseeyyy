@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently third year college student studying BS Information Technology, passionate learning about coding and different technologies specifically in Web Development and Mobile Development.
 
-**Check out my work:** [agassibustarga.page.gd/portfolio](http://agassibustarga.page.gd)
+**Check out my work:** [agassibustarga.page.gd](http://agassibustarga.page.gd)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Agaseeyyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_agaseeyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agassi-bustarga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bustargaagassi1018@gmail.com) 
